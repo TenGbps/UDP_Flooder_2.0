@@ -1,4 +1,4 @@
-UDPFlood 2.00
+# UDPFlood 2.00
 -------------
 
 UDPFlood is UDP packet sender. It sends out UDP packets to the specfied IP and port at a controllable rate. Packets can be made from a typed text string, a given number of random bytes or data from a file. Useful for server testing.
