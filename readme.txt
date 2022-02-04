@@ -8,7 +8,7 @@ Version 2.0 does not represent any additional functionality to previous
 versions of UDPFlood, it simply signifies the fact that UDPFlood has
 been acquired by Foundstone (http://www.foundstone.com).
 
-![UDPFlood 2.00](https://i.imgur.com/Bp4BVCn.png)
+![UDPFlood 2.00](https://i.imgur.com/nGv18aVl.png)
 
 ----------------------------------------------------------------------
 
