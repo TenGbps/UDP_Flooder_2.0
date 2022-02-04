@@ -8,7 +8,7 @@ Version 2.0 does not represent any additional functionality to previous
 versions of UDPFlood, it simply signifies the fact that UDPFlood has
 been acquired by Foundstone (http://www.foundstone.com).
 
-https://github.com/TenGbps/UDP_Flooder_2.0/blob/main/UDPFlooder.png?raw=true
+![UDPFlood 2.00](https://i.imgur.com/Bp4BVCn.png)
 
 ----------------------------------------------------------------------
 
